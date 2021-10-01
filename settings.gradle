@@ -1,0 +1,2 @@
+rootProject.name = "My Mobills"
+include ':app'
