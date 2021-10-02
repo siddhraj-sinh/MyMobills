@@ -61,6 +61,8 @@ In order to keep this android codebase maintainable we have follow <b>MVVM patte
   
 </ul>
 
+## What do you need to get started?
 
+Latest version of android studio and basic android and googling skills will get you going.
 
 
