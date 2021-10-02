@@ -1,6 +1,6 @@
 # MyMobills
 
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://github.com/siddhraj-sinh/MyMobills/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/siddhraj-sinh/MyMobills/blob/master/LICENSE)
 
 MyMobills is modern invoice generator app. This app lets you create your own customized invoices for your business by providing several invoice templates. it also stored all previously created invoices data. generated invoice can be share as image or pdf file.
 
