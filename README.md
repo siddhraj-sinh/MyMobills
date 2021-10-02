@@ -45,6 +45,7 @@ In order to keep this android codebase maintainable we have follow <b>MVVM patte
 </tr>
 </tbody>
 </table>
+
 ## What's to be done?
 
 <ul>
