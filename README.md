@@ -51,7 +51,7 @@ In order to keep this android codebase maintainable we have follow <b>MVVM patte
 <ul>
   <li>Home Fragment (at now it only show dummy data of invoices instead of this it is require to show data from local database)</li>
   <li>Report Fragment (completly from scratch)</li>
-  <li>Setting Fragment (completly from scratch) </li>
+  <li>Setting Fragment (completly from scratch) implement this <a href="https://www.figma.com/file/VDVL52ChLEEoXcLWUirTre/Setting-Screen-UI?node-id=0%3A1">UI</a></li>
   <li>Profile Fragment (asking permission and take or choose photo from gallery and store URI in database or datastore)</li>
   <li>More Invoice Templates</li>
   <li>Share generated invoice as PDF/IMG on click of Share FAB in PreviewFragmenr</li>
