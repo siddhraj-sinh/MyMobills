@@ -30,8 +30,8 @@ In order to keep this android codebase maintainable we have follow <b>MVVM patte
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705240-7e9a75ec-554f-4598-bb28-d2ec478464e0.jpg" alt="Splash Screen" width="380" height="640"></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705321-b80bf63f-5451-438a-9c5b-afd4999408cf.jpg" alt="HomeFragment"width="380" height="640"></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705240-7e9a75ec-554f-4598-bb28-d2ec478464e0.jpg" alt="Splash Screen" width="300"> </td>
+<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705321-b80bf63f-5451-438a-9c5b-afd4999408cf.jpg" alt="HomeFragment"width="300"></td>
 </tr>
 </tbody>
   <thead>
@@ -42,8 +42,8 @@ In order to keep this android codebase maintainable we have follow <b>MVVM patte
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705384-4642e8e1-8434-4ef3-a0a1-deeeac92279d.jpg" alt="Profile Screen" width="380" height="640"></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705401-df3dae29-8f14-49e4-8944-f4870a84b2c6.jpg" alt="Create Invoice Screen"width="380" height="640"></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705384-4642e8e1-8434-4ef3-a0a1-deeeac92279d.jpg" alt="Profile Screen" width="300"></td>
+<td align="center"><img src="https://user-images.githubusercontent.com/69664213/135705401-df3dae29-8f14-49e4-8944-f4870a84b2c6.jpg" alt="Create Invoice Screen"width="300"></td>
 </tr>
 </tbody>
 </table>
